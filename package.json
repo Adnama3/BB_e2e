@@ -1,0 +1,15 @@
+{
+  "name": "bb_e2e",
+  "version": "1.0.0",
+  "description": "Cypress End to End Test Suite for Shady B&B",
+  "main": "index.js",
+  "scripts": {
+    "run": "npx cypress run",
+    "cypressOpen": "npx cypress open"
+  },
+  "author": "Amanda Evans",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
